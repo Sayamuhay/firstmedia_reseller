@@ -6,7 +6,7 @@ export default function MobilePLans() {
     return (
         <div className="paket-attack mt-14">
 
-            <div className="title">
+            <div className="title mb-20">
 
                 <div className="group-567 flex-col">
                     <p className="txt-874 font-bold">
@@ -18,13 +18,15 @@ export default function MobilePLans() {
                     </p>
                     <p className="txt-254 text-blue-800">
                         *Harga yang tertera bisa dikurangi Rp. 33.000 dengan mengurangi
-                        channel sport
+                        channel sport <br />
+                        *Gratis biaya pemasangan <br />
+                        *Sudah termasuk PPN 11%
                     </p>
                 </div>
 
             </div>
 
-            <div className="grid grid-cols-1 gap-4 mt-7">
+            <div className="grid grid-cols-1 gap-4 mt-15">
 
                 {/* Combo Pop */}
                 <div className="">

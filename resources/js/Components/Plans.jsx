@@ -18,7 +18,12 @@ export default function Plans({id}) {
                     </div>
                     <p className="text-xl mt-3 text-blue-800">
                         *Harga yang tertera bisa dikurangi Rp. 33.000 dengan mengurangi
-                        channel sport
+                        channel sport <br />
+                        *Gratis biaya pemasangan <br />
+                        *Sudah termasuk PPN 11%
+                    </p>
+                    <p className="text-xl mt-3 text-blue-800">
+                        
                     </p>
                 </div>
 
